@@ -9,7 +9,7 @@
 - Text refinement using PyTorch-based machine learning models  
 - Extractive summarization using SpaCy  
 - Abstractive summarization using the T5 model from the Hugging Face Transformers library  
-- Output generation as pdf and summarized files  
+- Output generation as editable `.txt` and summarized files  
 
 ## Tech Stack
 
